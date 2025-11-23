@@ -1,0 +1,55 @@
+{
+    "workbench.colorTheme": "One Candy",
+    // Fuente principal
+    "editor.fontFamily": "Cascadia Code PL, JetBrains Mono, 'Courier New', monospace",
+    // Activar ligaduras
+    "editor.fontLigatures": true,
+    // Peso regular recomendado
+    "editor.fontWeight": "400",
+    // Tamaño para una vista clara
+    "editor.fontSize": 16,
+    // Suavizado visual (importante en Windows)
+    "editor.fontVariations": true,
+    // Espaciado visual equilibrado
+    "editor.lineHeight": 22,
+    // Suaviza aún más el texto
+    "editor.renderWhitespace": "none",
+    "editor.smoothScrolling": true,
+    // Opcional pero recomendado para mejor legibilidad
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "terminal.integrated.fontFamily": "Cascadia Code PL",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.fontWeight": "normal",
+    "editor.minimap.enabled": false,
+
+    // Extra configs
+    "window.menuBarVisibility": "compact", // <- Aqui se sacan las opciones de File, Edit, Selection, View
+    "editor.stickyScroll.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.activityBar.location": "default",
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "editor.renderControlCharacters": true,
+    "workbench.sideBar.location": "right",
+
+    // Minimal
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+
+    // AI Features
+    "chat.disableAIFeatures": true,
+
+    // Scroll
+    "editor.scrollbar.verticalScrollbarSize": 3,
+    "editor.scrollbar.horizontalScrollbarSize": 3,
+    "editor.scrollbar.vertical": "auto",
+    "editor.scrollbar.horizontal": "auto",
+
+    
+
+
+}
